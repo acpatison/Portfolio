@@ -13,7 +13,7 @@
 * This project does not solve any probems. It was created as a tool for referencing my working portfolio as we move through this class
 
 # Lessons Learned
-* While creating this Project, I learned a ton.But in summary, I learned that I have increased my coding knowledge and ability 1000x fold since I last deployed my portfolio. My coding ability has gotten so much better, that when I opened my original code to my protfolio from the first week of class, I decided to just go ahead and delete, literally, every ounce of code that was there.
+* While creating this Project, I learned a ton. But in summary, I learned that I have increased my coding knowledge and ability 1000x fold since I last deployed my portfolio. My coding ability has gotten so much better, that when I opened my original code to my protfolio from the first week of class, I decided to just go ahead and delete, literally, every ounce of code that was there.
 
 # Standout
 * This project should always stand-out for the sole-purpose that it is a reflection of my progression as a web-developer and how far I have come and will continue to go as I gain more web-development knowledge and coding ability.

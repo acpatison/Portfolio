@@ -1,6 +1,6 @@
 /* navbar Styling */
 .navbar {
-    padding-left: 1%;
+    box-shadow: 5px 5px 10px rgb(149, 144, 144);
 }
 .navBtn {
     font-family: "Roboto", sans-serif;
